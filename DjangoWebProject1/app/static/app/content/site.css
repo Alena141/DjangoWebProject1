@@ -1,0 +1,179 @@
+body {
+    padding-top: 120px; /* Отступ сверху */
+    padding-bottom: 20px; /* Отступ снизу */
+    background-color: #1f3c3847; /* Цвет фона */
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s, color 0.3s, font-size 0.3s;
+}
+
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+
+.block-links {
+    font-size: 24px;
+    line-height: 150%;
+}
+
+    .block-links .org {
+        margin-bottom: 25px;
+        margin-top: 25px;
+    }
+
+.ico {
+    width: 300px;
+    margin-bottom: 40px;
+}
+
+.block-about p {
+    font-size: 22px;
+    line-height: 160%;
+}
+
+.block-about h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.hrline {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: none;
+    border-top: 2px solid rgb(0,0,0);
+}
+
+.navbar-nav {
+    margin-top: 35px;
+    font-size: 14px;
+}
+
+.navbar-fixed-top {
+    background-color: #1f3c38;
+}
+
+.navbar-brand {
+    padding-bottom: 0;
+}
+
+.navbar-right,
+.navbar-right .navbar-brand {
+    font-size: 12px;
+}
+
+.block-about p {
+    font-size: 22px;
+    line-height: 160%;
+}
+
+.block-about h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.cons {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+    .cons .cell {
+        padding: 15px;
+        height: 500px;
+        font-size: 18px;
+    }
+
+#titleAbout {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+
+#titleContact {
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+
+.img class {
+    margin-bottom: 500px;
+}
+
+.hrline1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: none;
+    border-top: 2px solid rgb(0,0,0);
+}
+
+.map {
+    position: absolute;
+    padding: 10px 10px; /* Внутренние отступы */
+    background-color: black; /* Цвет фона карты (если необходимо) */
+}
+
+#myCarousel {
+    width: 600px; /* Устанавливаем ширину карусели */
+    height: 550px; /* Устанавливаем высоту карусели */
+    position: absolute; /* Позволяет позиционировать элемент */
+    top: 400px; /* Располагаем в верхней части экрана */
+    right: 500px; /* Располагаем в правой части экрана */
+    overflow: hidden; /* Скрываем переполнение */
+}
+
+.carousel-inner img {
+    width: 100%; /* Изображения занимают всю ширину карусели */
+    height: auto; /* Высота автоматически подстраивается */
+    max-height: 600px; /* Ограничиваем максимальную высоту изображений */
+}
+
+.carousel-caption {
+    color: #ccc; /* Устанавливаем цвет текста на черный */
+    background-color: rgba(50, 50, 50, 0.7); /* Полупрозрачный фон для лучшей читаемости текста */
+}
+
+h5 {
+    color: #1c4f9c;
+}
+
+
+video {
+    position: absolute; /* Позволяет позиционировать элемент */
+    top: 200px;
+    left: 190px;
+    width: 800px; /* Устанавливаем ширину видео */
+    height: auto; /* Высота автоматически подстраивается */
+}

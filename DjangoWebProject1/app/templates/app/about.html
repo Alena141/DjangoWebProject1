@@ -1,0 +1,80 @@
+﻿{% extends "app/layout.html" %}
+{% load static %}
+{% block content %}
+
+<h2 id="titleAbout">{{ title }}</h2>
+
+<div class="block-about">
+    <div class="block-about header">
+        <p>
+            Мы предлагаем уютные номера в самом центре микрорайона Лазаревское (Сочи) с
+            прекрасным видом на горы и реку в шаговой доступности от моря. <br />
+
+            Все номера комплекса оснащены всем необходимым для комфортного отдыха: кондиционер,
+            собственный санузел, холодильник, телевизор, WI-FI. <br />
+
+            Помимо того, что все развлечения курорта находятся в пешей доступности, мы
+            предлагаем гостям различные мероприятия для разнообразия досуга: от утренней
+            оздоровительной йоги до активного и экстремального отдыха на любой вкус. <br />
+
+        </p>
+
+        <p>
+            Наш гостевой комплекс располагается на набережной реки в 10 минутах ходьбы от центрального пляжа.
+        </p>
+
+    </div>
+
+    <hr class="hrline">
+
+    <h2>Наши номера:</h2>
+
+    <div class="row cons">
+        <div class="col-md-4 cell">
+            <div><img class="ico" src="{% static 'app/content/nom1.jpg' %}" alt="" /></div>
+            <strong><ins>Стандартный двухместный с 1 кроватью</ins></strong><br>
+            от 1500₽ за сутки
+        </div>
+
+        <div class="col-md-4 cell">
+            <div><img class="ico" src="{% static 'app/content/nom2.jpg' %}" alt="" /></div>
+            <strong><ins>Двухместный Плюс панорама</ins></strong><br>
+            от 1900₽ за сутки
+        </div>
+
+        <div class="col-md-4 cell">
+            <div><img class="ico" src="{% static 'app/content/nom3.jpg' %}" alt="" /></div>
+            <strong><ins>Стандартный трехместный</ins></strong><br>
+            от 1700₽ за сутки
+        </div>
+
+    </div>
+
+    <div class="row cons">
+        <div class="col-md-4 cell">
+            <div><img class="ico" src="{% static 'app/content/nom4.jpg' %}" alt="" /></div>
+            <strong><ins>2 комнатный 4 местный +2 доп. места</ins></strong><br>
+            от 2700₽ за сутки
+        </div>
+
+        <div class="col-md-4 cell">
+            <div><img class="ico" src="{% static 'app/content/nom5.jpg' %}" alt="" /></div>
+            <strong><ins>Люкс</ins></strong><br>
+            от 3100₽ за сутки
+        </div>
+
+        <div class="col-md-4 cell">
+            <div><img class="ico" src="{% static 'app/content/nom6.jpg' %}" alt="" /></div>
+            <strong><ins>Стандартный одноместный</ins></strong><br>
+            За 1100₽ за сутки
+        </div>
+    </div>
+
+    <hr class="hrline1">
+    <p>
+        Забронировать номер вы можете либо по номеру телефона: +7 (999) 564-32-00,
+        либо написав нам на почту: reception@otelmonokl.ru
+    </p>
+</div>
+
+{% endblock %}

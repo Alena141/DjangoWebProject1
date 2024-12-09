@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\DjangoWebProject1\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|solutionrelative:DjangoWebProject1\\DjangoWebProject1\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\DjangoWebProject1\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|solutionrelative:DjangoWebProject1\\DjangoWebProject1\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\templates\\app\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|solutionrelative:DjangoWebProject1\\app\\templates\\app\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\templates\\app\\newpost.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|solutionrelative:DjangoWebProject1\\app\\templates\\app\\newpost.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|solutionrelative:DjangoWebProject1\\app\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\static\\app\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|solutionrelative:DjangoWebProject1\\app\\static\\app\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\templates\\app\\blogpost.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|solutionrelative:DjangoWebProject1\\app\\templates\\app\\blogpost.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\templates\\app\\blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|solutionrelative:DjangoWebProject1\\app\\templates\\app\\blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E42EAF2B-452A-4088-9048-64091CF84741}|DjangoWebProject1\\DjangoWebProject1.pyproj|solutionrelative:DjangoWebProject1\\app\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "settings.py",
+              "DocumentMoniker": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\DjangoWebProject1\\settings.py",
+              "RelativeDocumentMoniker": "DjangoWebProject1\\DjangoWebProject1\\settings.py",
+              "ToolTip": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\DjangoWebProject1\\settings.py",
+              "RelativeToolTip": "DjangoWebProject1\\DjangoWebProject1\\settings.py",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-08T19:01:29.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "newpost.html",
+              "DocumentMoniker": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\templates\\app\\newpost.html",
+              "RelativeDocumentMoniker": "DjangoWebProject1\\app\\templates\\app\\newpost.html",
+              "ToolTip": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\templates\\app\\newpost.html",
+              "RelativeToolTip": "DjangoWebProject1\\app\\templates\\app\\newpost.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-08T18:01:25.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\DjangoWebProject1\\urls.py",
+              "RelativeDocumentMoniker": "DjangoWebProject1\\DjangoWebProject1\\urls.py",
+              "ToolTip": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\DjangoWebProject1\\urls.py",
+              "RelativeToolTip": "DjangoWebProject1\\DjangoWebProject1\\urls.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-04T23:13:31.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "blogpost.html",
+              "DocumentMoniker": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\templates\\app\\blogpost.html",
+              "RelativeDocumentMoniker": "DjangoWebProject1\\app\\templates\\app\\blogpost.html",
+              "ToolTip": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\templates\\app\\blogpost.html",
+              "RelativeToolTip": "DjangoWebProject1\\app\\templates\\app\\blogpost.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-08T16:09:53.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\static\\app\\content\\site.css",
+              "RelativeDocumentMoniker": "DjangoWebProject1\\app\\static\\app\\content\\site.css",
+              "ToolTip": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\static\\app\\content\\site.css",
+              "RelativeToolTip": "DjangoWebProject1\\app\\static\\app\\content\\site.css",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAqwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-04T03:15:18.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "layout.html",
+              "DocumentMoniker": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\templates\\app\\layout.html",
+              "RelativeDocumentMoniker": "DjangoWebProject1\\app\\templates\\app\\layout.html",
+              "ToolTip": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\templates\\app\\layout.html",
+              "RelativeToolTip": "DjangoWebProject1\\app\\templates\\app\\layout.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-04T23:20:03.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "blog.html",
+              "DocumentMoniker": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\templates\\app\\blog.html",
+              "RelativeDocumentMoniker": "DjangoWebProject1\\app\\templates\\app\\blog.html",
+              "ToolTip": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\templates\\app\\blog.html",
+              "RelativeToolTip": "DjangoWebProject1\\app\\templates\\app\\blog.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-08T15:10:20.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\views.py",
+              "RelativeDocumentMoniker": "DjangoWebProject1\\app\\views.py",
+              "ToolTip": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\views.py",
+              "RelativeToolTip": "DjangoWebProject1\\app\\views.py",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAAANMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-04T23:12:00.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "forms.py",
+              "DocumentMoniker": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\forms.py",
+              "RelativeDocumentMoniker": "DjangoWebProject1\\app\\forms.py",
+              "ToolTip": "C:\\Users\\churo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\www\\DjangoWebProject1\\DjangoWebProject1\\app\\forms.py",
+              "RelativeToolTip": "DjangoWebProject1\\app\\forms.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-04T23:06:51.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

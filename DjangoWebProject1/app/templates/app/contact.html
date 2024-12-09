@@ -1,0 +1,20 @@
+﻿{% extends "app/layout.html" %}
+
+{% block content %}
+
+<h2 id="titleContact">{{ title }}</h2>
+
+<div class="adressinfo">
+    <address>
+        <div><u>Адрес</u>:          мкр. Лазаревское, ул. Багратиона, д. 4</div><br />
+        <div><u>Телефон</u>:        +7 (999) 564-32-00</div> <br />
+        <div><u>Email</u>:          reception@otelmonokl.ru</div>
+    </address>
+
+    <address class="map">
+        <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A2cf63a2a2137a03f5dbc23a244a9493cb8c4e98226247a8dec97070e3d1fa27a&amp;source=constructor" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+    </address>
+</div>
+
+{% endblock %}

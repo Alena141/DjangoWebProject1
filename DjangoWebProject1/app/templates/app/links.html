@@ -1,0 +1,42 @@
+﻿{% extends "app/layout.html" %}
+{% load static %}
+{% block content %}
+
+<h2 id="titleLinks">{{ title }}</h2>
+<div class="block-links">
+    <ol>
+        <li>
+            <div class="org">
+                <a href="https://travel.yandex.ru/journal/lazarevskoye/" target="_blank"> <img src="{% static 'app/content/logo1.jpg' %}" alt="Logo1" width="75" /></a>
+                <a class="orgname" href="https://travel.yandex.ru/journal/lazarevskoye/">Журнал путешествий</a><br />
+                <span>
+                    Что посмотреть в Лазаревском: достопримечательности города, 
+                    Аквапарк «Наутилус», Дельфинарий «Морская звезда», 33 водопада 
+                    и много другое вы можете узнать на этом сайте!
+                </span>
+            </div>
+        </li>
+        <li>
+            <div class="org">
+                <a href="https://yandex.ru/pogoda/lazarevskoye" target="_blank"> <img src="{% static 'app/content/logo2.jpg' %}" alt="Logo2" width="75" /></a>
+                <a class="orgname" href="https://yandex.ru/pogoda/lazarevskoye">Погода в Лазаревском</a><br />
+                <span>
+                    Сайт на котором вы сможете узнать прогноз погоды на 10 дней вперед.
+                </span>
+            </div>
+        </li>
+        <li>
+            <div class="org">
+                <a href="https://m.vk.com/lazarevskoe_love" target="_blank"> <img src="{% static 'app/content/logo3.jpg' %}" alt="Logo3" width="75" /></a>
+                <a class="orgname" href="https://m.vk.com/lazarevskoe_love">Группа в ВК</a><br />
+                <span>
+                    Самый главный паблик города! Тут вы найдете: 
+                    Стримы и прямые эфиры с моря. Подборки лучших экскурсий. 
+                    Сравнение цен в столовых. Красивые фотографии от подписчиков с моря.
+                </span>
+            </div>
+        </li>
+    </ol>
+</div>
+
+{% endblock %}
